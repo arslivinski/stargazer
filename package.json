@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "license": "ISC",
   "private": true,
+  "homepage": "https://arslivinski.github.io/stargazer",
   "dependencies": {
     "@mantine/core": "^3.6.9",
     "octokit": "^1.7.1",
