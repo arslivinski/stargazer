@@ -1,9 +1,11 @@
 {
   "name": "@arslivinski/stargazer",
-  "version": "1.0.0-alpha.0",
+  "version": "1.0.0",
   "license": "ISC",
   "private": true,
   "dependencies": {
+    "@mantine/core": "^3.6.9",
+    "octokit": "^1.7.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "web-vitals": "^2.1.4"
