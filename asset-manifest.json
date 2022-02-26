@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stargazer/static/css/main.2ecfc47a.css",
+    "main.js": "/stargazer/static/js/main.e79c2192.js",
+    "static/js/787.d1c78260.chunk.js": "/stargazer/static/js/787.d1c78260.chunk.js",
+    "index.html": "/stargazer/index.html",
+    "main.2ecfc47a.css.map": "/stargazer/static/css/main.2ecfc47a.css.map",
+    "main.e79c2192.js.map": "/stargazer/static/js/main.e79c2192.js.map",
+    "787.d1c78260.chunk.js.map": "/stargazer/static/js/787.d1c78260.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ecfc47a.css",
+    "static/js/main.e79c2192.js"
+  ]
+}
